@@ -1,0 +1,9 @@
+C:\Users\SMR\source\repos\CureWellDAL\CureWellDAL\bin\Debug\CureWellDAL.dll
+C:\Users\SMR\source\repos\CureWellDAL\CureWellDAL\bin\Debug\CureWellDAL.pdb
+C:\Users\SMR\source\repos\CureWellDAL\CureWellDAL\bin\Debug\System.Data.SqlClient.dll
+C:\Users\SMR\source\repos\CureWellDAL\CureWellDAL\bin\Debug\System.Data.SqlClient.xml
+C:\Users\SMR\source\repos\CureWellDAL\CureWellDAL\obj\Debug\CureWellContext.cs.csproj.AssemblyReference.cache
+C:\Users\SMR\source\repos\CureWellDAL\CureWellDAL\obj\Debug\CureWellContext.cs.csproj.CoreCompileInputs.cache
+C:\Users\SMR\source\repos\CureWellDAL\CureWellDAL\obj\Debug\CureWell.BFB3D396.Up2Date
+C:\Users\SMR\source\repos\CureWellDAL\CureWellDAL\obj\Debug\CureWellDAL.dll
+C:\Users\SMR\source\repos\CureWellDAL\CureWellDAL\obj\Debug\CureWellDAL.pdb

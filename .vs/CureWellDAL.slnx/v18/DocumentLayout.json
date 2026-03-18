@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4338D4-033D-96C1-691E-0BC49CF46D14}|CureWellAPI\\CureWellAPI.csproj|c:\\users\\smr\\source\\repos\\curewelldal\\curewellapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4338D4-033D-96C1-691E-0BC49CF46D14}|CureWellAPI\\CureWellAPI.csproj|solutionrelative:curewellapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7480758F-645D-413A-8FA9-F5E42FA00BC0}|CureWellDAL\\CureWellContext.cs.csproj|C:\\Users\\SMR\\source\\repos\\CureWellDAL\\curewelldal\\models\\curewellrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7480758F-645D-413A-8FA9-F5E42FA00BC0}|CureWellDAL\\CureWellContext.cs.csproj|solutionrelative:curewelldal\\models\\curewellrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7480758F-645D-413A-8FA9-F5E42FA00BC0}|CureWellDAL\\CureWellContext.cs.csproj|C:\\Users\\SMR\\source\\repos\\CureWellDAL\\curewelldal\\models\\surgery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7480758F-645D-413A-8FA9-F5E42FA00BC0}|CureWellDAL\\CureWellContext.cs.csproj|solutionrelative:curewelldal\\models\\surgery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7480758F-645D-413A-8FA9-F5E42FA00BC0}|CureWellDAL\\CureWellContext.cs.csproj|C:\\Users\\SMR\\source\\repos\\CureWellDAL\\curewelldal\\models\\doctorspecialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7480758F-645D-413A-8FA9-F5E42FA00BC0}|CureWellDAL\\CureWellContext.cs.csproj|solutionrelative:curewelldal\\models\\doctorspecialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7480758F-645D-413A-8FA9-F5E42FA00BC0}|CureWellDAL\\CureWellContext.cs.csproj|C:\\Users\\SMR\\source\\repos\\CureWellDAL\\curewelldal\\models\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7480758F-645D-413A-8FA9-F5E42FA00BC0}|CureWellDAL\\CureWellContext.cs.csproj|solutionrelative:curewelldal\\models\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7480758F-645D-413A-8FA9-F5E42FA00BC0}|CureWellDAL\\CureWellContext.cs.csproj|C:\\Users\\SMR\\source\\repos\\CureWellDAL\\curewelldal\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7480758F-645D-413A-8FA9-F5E42FA00BC0}|CureWellDAL\\CureWellContext.cs.csproj|solutionrelative:curewelldal\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7480758F-645D-413A-8FA9-F5E42FA00BC0}|CureWellDAL\\CureWellContext.cs.csproj|C:\\Users\\SMR\\source\\repos\\CureWellDAL\\curewelldal\\curewellcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7480758F-645D-413A-8FA9-F5E42FA00BC0}|CureWellDAL\\CureWellContext.cs.csproj|solutionrelative:curewelldal\\curewellcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4338D4-033D-96C1-691E-0BC49CF46D14}|CureWellAPI\\CureWellAPI.csproj|c:\\users\\smr\\source\\repos\\curewelldal\\curewellapi\\curewellrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4338D4-033D-96C1-691E-0BC49CF46D14}|CureWellAPI\\CureWellAPI.csproj|solutionrelative:curewellapi\\curewellrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4338D4-033D-96C1-691E-0BC49CF46D14}|CureWellAPI\\CureWellAPI.csproj|c:\\users\\smr\\source\\repos\\curewelldal\\curewellapi\\models\\surgery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4338D4-033D-96C1-691E-0BC49CF46D14}|CureWellAPI\\CureWellAPI.csproj|solutionrelative:curewellapi\\models\\surgery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4338D4-033D-96C1-691E-0BC49CF46D14}|CureWellAPI\\CureWellAPI.csproj|c:\\users\\smr\\source\\repos\\curewelldal\\curewellapi\\models\\doctorspecialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4338D4-033D-96C1-691E-0BC49CF46D14}|CureWellAPI\\CureWellAPI.csproj|solutionrelative:curewellapi\\models\\doctorspecialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4338D4-033D-96C1-691E-0BC49CF46D14}|CureWellAPI\\CureWellAPI.csproj|c:\\users\\smr\\source\\repos\\curewelldal\\curewellapi\\models\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4338D4-033D-96C1-691E-0BC49CF46D14}|CureWellAPI\\CureWellAPI.csproj|solutionrelative:curewellapi\\models\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4338D4-033D-96C1-691E-0BC49CF46D14}|CureWellAPI\\CureWellAPI.csproj|c:\\users\\smr\\source\\repos\\curewelldal\\curewellapi\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4338D4-033D-96C1-691E-0BC49CF46D14}|CureWellAPI\\CureWellAPI.csproj|solutionrelative:curewellapi\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4338D4-033D-96C1-691E-0BC49CF46D14}|CureWellAPI\\CureWellAPI.csproj|c:\\users\\smr\\source\\repos\\curewelldal\\curewellapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4338D4-033D-96C1-691E-0BC49CF46D14}|CureWellAPI\\CureWellAPI.csproj|solutionrelative:curewellapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4338D4-033D-96C1-691E-0BC49CF46D14}|CureWellAPI\\CureWellAPI.csproj|c:\\users\\smr\\source\\repos\\curewelldal\\curewellapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB4338D4-033D-96C1-691E-0BC49CF46D14}|CureWellAPI\\CureWellAPI.csproj|solutionrelative:curewellapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4338D4-033D-96C1-691E-0BC49CF46D14}|CureWellAPI\\CureWellAPI.csproj|c:\\users\\smr\\source\\repos\\curewelldal\\curewellapi\\curewellapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BB4338D4-033D-96C1-691E-0BC49CF46D14}|CureWellAPI\\CureWellAPI.csproj|solutionrelative:curewellapi\\curewellapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4338D4-033D-96C1-691E-0BC49CF46D14}|CureWellAPI\\CureWellAPI.csproj|c:\\users\\smr\\source\\repos\\curewelldal\\curewellapi\\curewellapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB4338D4-033D-96C1-691E-0BC49CF46D14}|CureWellAPI\\CureWellAPI.csproj|solutionrelative:curewellapi\\curewellapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CureWellRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellAPI\\CureWellRepository.cs",
+              "RelativeDocumentMoniker": "CureWellAPI\\CureWellRepository.cs",
+              "ToolTip": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellAPI\\CureWellRepository.cs",
+              "RelativeToolTip": "CureWellAPI\\CureWellRepository.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAwM0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T14:25:20.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Surgery.cs",
+              "DocumentMoniker": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellAPI\\Models\\Surgery.cs",
+              "RelativeDocumentMoniker": "CureWellAPI\\Models\\Surgery.cs",
+              "ToolTip": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellAPI\\Models\\Surgery.cs",
+              "RelativeToolTip": "CureWellAPI\\Models\\Surgery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T14:24:24.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CureWellAPI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CureWellAPI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:44:17.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoctorSpecialization.cs",
+              "DocumentMoniker": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellAPI\\Models\\DoctorSpecialization.cs",
+              "RelativeDocumentMoniker": "CureWellAPI\\Models\\DoctorSpecialization.cs",
+              "ToolTip": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellAPI\\Models\\DoctorSpecialization.cs",
+              "RelativeToolTip": "CureWellAPI\\Models\\DoctorSpecialization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T14:22:47.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Specialization.cs",
+              "DocumentMoniker": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellAPI\\Models\\Specialization.cs",
+              "RelativeDocumentMoniker": "CureWellAPI\\Models\\Specialization.cs",
+              "ToolTip": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellAPI\\Models\\Specialization.cs",
+              "RelativeToolTip": "CureWellAPI\\Models\\Specialization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T14:21:15.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellAPI\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "CureWellAPI\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellAPI\\Models\\Doctor.cs",
+              "RelativeToolTip": "CureWellAPI\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T14:20:06.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CureWellAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellAPI\\Program.cs",
+              "RelativeToolTip": "CureWellAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:38:06.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CureWellAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CureWellAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-17T13:53:26.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CureWellAPI",
+              "DocumentMoniker": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellAPI\\CureWellAPI.csproj",
+              "RelativeDocumentMoniker": "CureWellAPI\\CureWellAPI.csproj",
+              "ToolTip": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellAPI\\CureWellAPI.csproj",
+              "RelativeToolTip": "CureWellAPI\\CureWellAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T13:53:21.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CureWellAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellAPI\\CureWellAPI.csproj",
+              "RelativeDocumentMoniker": "CureWellAPI\\CureWellAPI.csproj",
+              "ToolTip": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellAPI\\CureWellAPI.csproj",
+              "RelativeToolTip": "CureWellAPI\\CureWellAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T13:46:56.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CureWellRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellDAL\\Models\\CureWellRepository.cs",
+              "RelativeDocumentMoniker": "CureWellDAL\\Models\\CureWellRepository.cs",
+              "ToolTip": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellDAL\\Models\\CureWellRepository.cs",
+              "RelativeToolTip": "CureWellDAL\\Models\\CureWellRepository.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAcwNUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:19:14.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Surgery.cs",
+              "DocumentMoniker": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellDAL\\Models\\Surgery.cs",
+              "RelativeDocumentMoniker": "CureWellDAL\\Models\\Surgery.cs",
+              "ToolTip": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellDAL\\Models\\Surgery.cs",
+              "RelativeToolTip": "CureWellDAL\\Models\\Surgery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:08:55.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorSpecialization.cs",
+              "DocumentMoniker": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellDAL\\Models\\DoctorSpecialization.cs",
+              "RelativeDocumentMoniker": "CureWellDAL\\Models\\DoctorSpecialization.cs",
+              "ToolTip": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellDAL\\Models\\DoctorSpecialization.cs",
+              "RelativeToolTip": "CureWellDAL\\Models\\DoctorSpecialization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:08:17.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Specialization.cs",
+              "DocumentMoniker": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellDAL\\Models\\Specialization.cs",
+              "RelativeDocumentMoniker": "CureWellDAL\\Models\\Specialization.cs",
+              "ToolTip": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellDAL\\Models\\Specialization.cs",
+              "RelativeToolTip": "CureWellDAL\\Models\\Specialization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:02:33.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellDAL\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "CureWellDAL\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellDAL\\Models\\Doctor.cs",
+              "RelativeToolTip": "CureWellDAL\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:59:09.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CureWellContext.cs",
+              "DocumentMoniker": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellDAL\\CureWellContext.cs",
+              "RelativeDocumentMoniker": "CureWellDAL\\CureWellContext.cs",
+              "ToolTip": "C:\\Users\\SMR\\source\\repos\\CureWellDAL\\CureWellDAL\\CureWellContext.cs",
+              "RelativeToolTip": "CureWellDAL\\CureWellContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:39:40.734Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

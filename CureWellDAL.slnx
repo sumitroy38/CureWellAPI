@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CureWellAPI/CureWellAPI.csproj" />
+  <Project Path="CureWellDAL/CureWellContext.cs.csproj" Id="7480758f-645d-413a-8fa9-f5e42fa00bc0" />
+</Solution>

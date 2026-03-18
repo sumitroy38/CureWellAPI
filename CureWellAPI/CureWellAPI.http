@@ -1,0 +1,6 @@
+@CureWellAPI_HostAddress = http://localhost:5049
+
+GET {{CureWellAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
